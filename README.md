@@ -1,9 +1,11 @@
-# VISCourse_2019
-**Data Visualization** 2019 Autumn @ SZU, Every Wednesday 
+# Data Visualization 
+2019 Autumn @ SZU, Every Wednesday 
 
-<img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="250">
+<img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="200">
 
-##Introduction
+##Course Learning Outcomes
+
+After taking this course, I hope: 
 
 - Theoretically, Introduce the data (especially spatial data) visualization method. Demonstrate the power of visual analytics in data (especially spatial data) analysis. Select appropriate visualization methods for a given combination of data type and intended analysis task. Assess visual representations according to design and perceptual principles.
 
@@ -12,8 +14,8 @@
 **Weekly Schedule Summary**
 
 - Week 1: Introduction: The Value of Visualization
-	- Assignment Week 1 (Good vs. Bad visualization // Hand-made Visualization)
-	- 
+	- *Brief*: data, what and why visualization, goals of visualization research
+	- *Assignment Week 1* (Week 1: Good vs. Bad visualization // Hand-made Visualization)
 - Week 2: Exploratory Data Analysis: Data & Task Abstractions; 
 	- Assignment Week 2 (Week 2: Draw a Map // Web Infrastructure )	- 
 - Week 3: Visual Encoding: Marks & Channels	- Assignment Week 3 (Week 3: Draw Trajectories // Web-based Visualization Programming)
