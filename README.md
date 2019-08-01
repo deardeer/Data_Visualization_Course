@@ -29,7 +29,7 @@ After taking this course, I hope:
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
 	- *Assignment*: Week 5 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
 - Week 6: Cartographic Visualization: Spatial Data & Map
-	- *Brief*: 	
+	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
 	- *Assignment*: Week 6 - Get a New Map // Spatial-related Visualization Programming
 - Week 7: Midterm: Project Brain-Storming Session	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
 	- *Assignment*: Week 7 - Form a Team 
@@ -37,7 +37,7 @@ After taking this course, I hope:
   - *Brief*: groups introduce project proposal
   - *Assignment*: Week 8 - Project Preview
 - Week 9: Text & Time
-	- *Brief*: map, scaling, symbols, third dimensional representation (e.g., temporal)
+	- *Brief*: temporal data, timeline visualization, animation
 	- *Assignment*: Week 9 - Project Implementation (Text/Time Visualization)
 - Week 10: Networks & Trees
 	- *Brief*: structural dataset, networks, tree
