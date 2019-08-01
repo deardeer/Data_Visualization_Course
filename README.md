@@ -3,7 +3,7 @@
 
 <img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="200">
 
-##Course Learning Outcomes
+## Course Learning Outcomes
 
 After taking this course, I hope: 
 
@@ -11,44 +11,59 @@ After taking this course, I hope:
 
 - Practically, Use visualization toolkits (e.g., Tableau). Design and implement static and interactive visualizations.
 
-**Weekly Schedule Summary**
+## Weekly Schedule Summary
 
 - Week 1: Introduction: The Value of Visualization
 	- *Brief*: data, what and why visualization, goals of visualization research
-	- *Assignment Week 1* (Week 1: Good vs. Bad visualization // Hand-made Visualization)
+	- *Assignment*: Week 1 - Good vs. Bad visualization
 - Week 2: Exploratory Data Analysis: Data & Task Abstractions; 
-	- Assignment Week 2 (Week 2: Draw a Map // Web Infrastructure )	- 
-- Week 3: Visual Encoding: Marks & Channels	- Assignment Week 3 (Week 3: Draw Trajectories // Web-based Visualization Programming)
-
-- Week 4: Color: Guidelines for Data Representation
-	- Assignment: Week 4 (Week 4: Tune the Map)
-
+	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
+	- *Assignment*: Week 2 - Draw a Map 
+- Week 3: Visual Encoding: Marks & Channels	
+	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
+	- *Assignment*: Week 3 - Tune the Style of Map
+- Week 4: Data Representation: Classic Visualizations
+	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
+	- *Assignment*: Week 4 - Draw Trajectories 
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
-	- Assignment Week 5 (Week 5: Make It Interactive // Web Infrastructure, Web-based Visualization Programming)
-	
-- Week 6: Cartographic Visualization: Maps & Spatial 
-	- Assignment Week 6 (Week 6: Get a New Map // Spatial-related Visualization Programming)
+	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
+	- *Assignment*: Week 5 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
+- Week 6: Cartographic Visualization: Spatial Data & Map
+	- *Brief*: 	
+	- *Assignment*: Week 6 - Get a New Map // Spatial-related Visualization Programming
+- Week 7: Midterm: Project Brain-Storming Session	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
+	- *Assignment*: Week 7 - Form a Team 
+- Week 8: Midterm: Project Interface Design Preview
+  - *Brief*: groups introduce project proposal
+  - *Assignment*: Week 8 - Project Preview
+- Week 9: Text & Time
+	- *Brief*: map, scaling, symbols, third dimensional representation (e.g., temporal)
+	- *Assignment*: Week 9 - Project Implementation (Text/Time Visualization)
+- Week 10: Networks & Trees
+	- *Brief*: structural dataset, networks, tree
+	- *Assignment*: Week 10 - Project Implementation (Network/Tree Visualization)
+- Week 11: High Dimensional Data Visualization 
+	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
+	- *Assignment*: Week 10 - Project Implementation  (High Dimensional Visualization)
+- Week 12: Data Reduction Via Aggregation and Filtering
+	- *Brief*: high dimensional data analysis method	- *Assignment*: Week 10 - Project Implementation 
+- Week 13: Rules of Thumb
+- Week 14: Advanced Topics & Next Steps
 
-- Week 7: Midterm: Project Brain-Storming Session
-	- Assignment Week 7 (Week 7: Work as a Team)
-	- Form groups, discuss and propose final project
+- Week 15: Final Project Feedback Sessions
+- Week 16: Final Project Poster & Demo Session (5-7:30pm, Allen Center Atrium)
 
-- Week 8: Text & Time
-- Week 9: Networks & Trees
-- Week 10: High Dimensional Data
-- Week 11: Data Reduction Via Aggregation and Filtering
-- Week 12: Rules of Thumb
-- Week 13: Advanced Topics & Next Steps
+## Reference
 
-- Week 14: Final Project Feedback Sessions
-- Week 15: Final Project Poster & Demo Session (5-7:30pm, Allen Center Atrium)
+This course is greatly inspired by following researchers. Thanks!
 
-**Reference**
-
-1. Course Design Reference:
 - Tamara Munzner: https://www.cs.ubc.ca/~tmm/courses/436V-20/
 - Jeffery Heer: https://courses.cs.washington.edu/courses/cse512/19sp/#schedule
 
 2. Resource Reference:
 - Visualization resources: https://courses.cs.washington.edu/courses/cse512/19sp/resources.html
+
+
+
+
 
