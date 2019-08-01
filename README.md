@@ -51,7 +51,7 @@ After taking this course, I hope:
 - Week 14: Advanced Topics & Next Steps
 
 - Week 15: Final Project Feedback Sessions
-- Week 16: Final Project Poster & Demo Session (5-7:30pm, Allen Center Atrium)
+- Week 16: Final Project Poster & Demo Session 
 
 ## Reference
 
