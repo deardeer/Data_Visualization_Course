@@ -1,6 +1,8 @@
 # VISCourse_2019
 **Data Visualization** 2019 Autumn @ SZU, Every Wednesday 
 
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/cover.jpeg" height="250">
+
 ##Introduction
 
 - Theoretically, Introduce the data (especially spatial data) visualization method. Demonstrate the power of visual analytics in data (especially spatial data) analysis. Select appropriate visualization methods for a given combination of data type and intended analysis task. Assess visual representations according to design and perceptual principles.
