@@ -1,7 +1,7 @@
 # VISCourse_2019
 **Data Visualization** 2019 Autumn @ SZU, Every Wednesday 
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/cover.jpeg" height="250">
+<img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="250">
 
 ##Introduction
 
