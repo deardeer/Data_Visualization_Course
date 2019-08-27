@@ -1,5 +1,5 @@
 # Data Visualization 
-2019 Autumn @ SZU, Every Wednesday 
+2019 Autumn @ SZU, Every Friday 
 
 <img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="200">
 
