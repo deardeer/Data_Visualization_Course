@@ -51,7 +51,8 @@ After taking this course, I hope:
 - Week 14: Advanced Topics & Next Steps
 
 - Week 15: Final Project Feedback Sessions
-- Week 16: Final Project Poster & Demo Session 
+- Week 16: Final Project Poster & Demo Session (I)
+- Week 17: Final Project Poster & Demo Session (II)
 
 ## Reference
 
