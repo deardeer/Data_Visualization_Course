@@ -27,10 +27,10 @@ After taking this course, I hope:
 	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming **[Good/Bad Visualization Review, 10%]**
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
-	- *Assignment*: Week 5 - Final project preview, form a team **[Interactive Visualization Prototyping 20%]**
+	- *Assignment*: Week 5 - Final project preview, form a team 
 - Week 6: Data Reduction via Aggregation and Filtering
 	- *Brief*: data analysis method	
-	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules
+	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules **[Interactive Visualization Prototyping 20%]**
 - Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
 	- *Assignment*: Week 7 - Final project discussion
