@@ -15,41 +15,46 @@ After taking this course, I hope:
 
 - Week 1: Introduction: The Value of Visualization
 	- *Brief*: data, what and why visualization, goals of visualization research
-	- *Assignment*: Week 1 - Good vs. Bad visualization
+	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation
 - Week 2: Visual Encoding: Marks & Channels	
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
-	- *Assignment*: Week 2 - Draw a Map 
+	- *Assignment*: Week 2 - Draw a circle, driven by data 
 - Week 3: Exploratory Data Analysis: Data & Task Abstractions; 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
-	- *Assignment*: Week 3 - Tune the Style of Map
+	- *Assignment*: Week 3 - Render a map, draw spatial data
 - Week 4: Data Representation: Classic Visualizations
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
-	- *Assignment*: Week 4 - Draw Trajectories 
+	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
-	- *Assignment*: Week 5 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
+	- *Assignment*: Week 5 - Final project preview, form a team
 - Week 6: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
-	- *Assignment*: Week 6 - Get a New Map // Spatial-related Visualization Programming
-- Week 7: Midterm: Project Brain-Storming Session	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
-	- *Assignment*: Week 7 - Form a Team 
-- Week 8: Midterm: Project Interface Design Preview
-  - *Brief*: groups introduce project proposal
-  - *Assignment*: Week 8 - Project Preview
-- Week 9: Text & Time
+	- *Assignment*: Week 6 - Final project discussion
+- Week 7: Midterm: Project Interface Design Preview	
+	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
+	- *Assignment*: Week 7 - Final project design presentation, and evaluation
+- Week 8: Rules of Thumb
+	- *Brief*: design effective visualization, lying in visualization
+	- *Assignment*: Week 9 - Project Implementation Q & A 
+- Week 9: Temporal Visualization
 	- *Brief*: temporal data, timeline visualization, animation
-	- *Assignment*: Week 9 - Project Implementation (Text/Time Visualization)
-- Week 10: Networks & Trees
+	- *Assignment*: Week 9 - Project Implementation Q & A (Temporal Visualization)
+- Week 10: Text Visualization
+	- *Brief*: textual data, text visualization
+	- *Assignment*: Week 10 - Project Implementation Q & A (Text Visualization)
+- Week 11: Network & Tree Visualization
 	- *Brief*: structural dataset, networks, tree
-	- *Assignment*: Week 10 - Project Implementation (Network/Tree Visualization)
-- Week 11: High Dimensional Data Visualization 
+	- *Assignment*: Week 11 - Project Implementation Q & A (Network/Tree Visualization)
+- Week 12: High Dimensional Data Visualization 
 	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
-	- *Assignment*: Week 10 - Project Implementation  (High Dimensional Visualization)
-- Week 12: Data Reduction Via Aggregation and Filtering
-	- *Brief*: high dimensional data analysis method	- *Assignment*: Week 10 - Project Implementation 
-- Week 13: Rules of Thumb
-- Week 14: Advanced Topics & Next Steps
-
+	- *Assignment*: Week 12 - Project Implementation  Q & A (High Dimensional Visualization)
+- Week 13: Data Reduction via Aggregation and Filtering
+	- *Brief*: high dimensional data analysis method	
+	- *Assignment*: Week 13 - Project Implementation Q & A
+- Week 14: Advanced Topics in Spatial Visualization & Interactions
+	- *Brief*: state-of-art research in spatial visualization and interactions	
+	- *Assignment*: Week 14 - Project Implementation Q & A
 - Week 15: Final Project Feedback Sessions
 - Week 16: Final Project Poster & Demo Session (I)
 - Week 17: Final Project Poster & Demo Session (II)
@@ -60,6 +65,7 @@ This course is greatly inspired by following researchers. Thanks!
 
 - Tamara Munzner: https://www.cs.ubc.ca/~tmm/courses/436V-20/
 - Jeffery Heer: https://courses.cs.washington.edu/courses/cse512/19sp/#schedule
+- Joel Lanir, Haifa University
 
 2. Resource Reference:
 - Visualization resources: https://courses.cs.washington.edu/courses/cse512/19sp/resources.html
