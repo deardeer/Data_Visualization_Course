@@ -18,7 +18,7 @@ After taking this course, I hope:
 	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation
 - Week 2: Visual Encoding: Marks & Channels	
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
-	- *Assignment*: Week 2 - Draw a circle, driven by data [**Good/Bad Visualization Review, 10%]
+	- *Assignment*: Week 2 - Draw a circle, driven by data **[Good/Bad Visualization Review, 10%]**
 - Week 3: Exploratory Data Analysis: Data & Task Abstractions; 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	- *Assignment*: Week 3 - Render a map, draw spatial data
@@ -27,14 +27,14 @@ After taking this course, I hope:
 	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
-	- *Assignment*: Week 5 - Final project preview, form a team [**Interactive Visualization Prototyping 20%]
+	- *Assignment*: Week 5 - Final project preview, form a team **[Interactive Visualization Prototyping 20%]**
 - Week 6: Data Reduction via Aggregation and Filtering
 	- *Brief*: data analysis method	
 	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules
 - Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
 	- *Assignment*: Week 7 - Final project discussion
-- Week 8: Midterm: Project Interface Design Preview [**20%]
+- Week 8: Midterm: Project Interface Design Preview **[20%]**
 	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
 	- *Assignment*: Week 8 - Final project design presentation, and evaluation
 - Week 9: Rules of Thumb
@@ -58,7 +58,7 @@ After taking this course, I hope:
 - Week 15: Advanced Topics in Spatial Visualization & Interactions
 	- *Brief*: state-of-art research in spatial visualization and interactions	
 	- *Assignment*: Week 15 - Project Implementation Q & A
-- Week 16: Final Project Poster & Demo Session (I) [**40%]
+- Week 16: Final Project Poster & Demo Session (I) **[40%]**
 - Week 17: Final Project Poster & Demo Session (II)
 
 ## Reference
