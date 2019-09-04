@@ -16,11 +16,11 @@ After taking this course, I hope:
 - Week 1: Introduction: The Value of Visualization
 	- *Brief*: data, what and why visualization, goals of visualization research
 	- *Assignment*: Week 1 - Good vs. Bad visualization
-- Week 2: Exploratory Data Analysis: Data & Task Abstractions; 
-	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
-	- *Assignment*: Week 2 - Draw a Map 
-- Week 3: Visual Encoding: Marks & Channels	
+- Week 2: Visual Encoding: Marks & Channels	
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
+	- *Assignment*: Week 2 - Draw a Map 
+- Week 3: Exploratory Data Analysis: Data & Task Abstractions; 
+	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	- *Assignment*: Week 3 - Tune the Style of Map
 - Week 4: Data Representation: Classic Visualizations
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
