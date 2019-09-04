@@ -18,13 +18,13 @@ After taking this course, I hope:
 	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation
 - Week 2: Visual Encoding: Marks & Channels	
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
-	- *Assignment*: Week 2 - Draw a circle, driven by data **[Good/Bad Visualization Review, 10%]**
+	- *Assignment*: Week 2 - Draw a circle, driven by data 
 - Week 3: Exploratory Data Analysis: Data & Task Abstractions; 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	- *Assignment*: Week 3 - Render a map, draw spatial data
 - Week 4: Data Representation: Classic Visualizations
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
-	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming
+	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming **[Good/Bad Visualization Review, 10%]**
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
 	- *Assignment*: Week 5 - Final project preview, form a team **[Interactive Visualization Prototyping 20%]**
