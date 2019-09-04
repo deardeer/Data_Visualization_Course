@@ -28,34 +28,36 @@ After taking this course, I hope:
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
 	- *Assignment*: Week 5 - Final project preview, form a team
-- Week 6: Cartographic Visualization: Spatial Data & Map
+- Week 6: Data Reduction via Aggregation and Filtering
+	- *Brief*: data analysis method	
+	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules
+- Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
-	- *Assignment*: Week 6 - Final project discussion
-- Week 7: Midterm: Project Interface Design Preview	
+	- *Assignment*: Week 7 - Final project discussion
+- Week 8: Midterm: Project Interface Design Preview	
 	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
-	- *Assignment*: Week 7 - Final project design presentation, and evaluation
-- Week 8: Rules of Thumb
+	- *Assignment*: Week 8 - Final project design presentation, and evaluation
+- Week 9: Rules of Thumb
 	- *Brief*: design effective visualization, lying in visualization
 	- *Assignment*: Week 9 - Project Implementation Q & A 
-- Week 9: Temporal Visualization
+- Week 10: Temporal Visualization
 	- *Brief*: temporal data, timeline visualization, animation
-	- *Assignment*: Week 9 - Project Implementation Q & A (Temporal Visualization)
-- Week 10: Text Visualization
+	- *Assignment*: Week 10 - Project Implementation Q & A (Temporal Visualization)
+- Week 11: Text Visualization
 	- *Brief*: textual data, text visualization
-	- *Assignment*: Week 10 - Project Implementation Q & A (Text Visualization)
-- Week 11: Network & Tree Visualization
+	- *Assignment*: Week 11 - Project Implementation Q & A (Text Visualization)
+- Week 12: Network & Tree Visualization
 	- *Brief*: structural dataset, networks, tree
-	- *Assignment*: Week 11 - Project Implementation Q & A (Network/Tree Visualization)
-- Week 12: High Dimensional Data Visualization 
+	- *Assignment*: Week 12 - Project Implementation Q & A (Network/Tree Visualization)
+- Week 13: High Dimensional Data Visualization 
 	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
-	- *Assignment*: Week 12 - Project Implementation  Q & A (High Dimensional Visualization)
-- Week 13: Data Reduction via Aggregation and Filtering
-	- *Brief*: high dimensional data analysis method	
-	- *Assignment*: Week 13 - Project Implementation Q & A
-- Week 14: Advanced Topics in Spatial Visualization & Interactions
+	- *Assignment*: Week 13 - Project Implementation  Q & A (High Dimensional Visualization)
+- Week 14: Animation
+	- *Brief*: motion, and its usage
+	- *Assignment*: Week 14 - Project Implementation Q & A (Animation)
+- Week 15: Advanced Topics in Spatial Visualization & Interactions
 	- *Brief*: state-of-art research in spatial visualization and interactions	
-	- *Assignment*: Week 14 - Project Implementation Q & A
-- Week 15: Final Project Feedback Sessions
+	- *Assignment*: Week 15 - Project Implementation Q & A
 - Week 16: Final Project Poster & Demo Session (I)
 - Week 17: Final Project Poster & Demo Session (II)
 
