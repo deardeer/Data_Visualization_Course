@@ -28,8 +28,8 @@ After taking this course, I hope:
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
 	- *Assignment*: Week 5 - Final project preview, form a team 
-- Week 6: Data Reduction via Aggregation and Filtering
-	- *Brief*: data analysis method	
+- Week 6: Data Analysis Methods
+	- *Brief*: data analysis method, including Reduction via Aggregation and Filtering
 	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules **[Interactive Visualization Prototyping 20%]**
 - Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
