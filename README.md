@@ -65,8 +65,6 @@ After taking this course, I hope:
 
 This course is greatly inspired by following researchers. Thanks!
 
-- Tamara Munzner: https://www.cs.ubc.ca/~tmm/courses/436V-20/
-- Jeffery Heer: https://courses.cs.washington.edu/courses/cse512/19sp/#schedule
 - Joel Lanir, Haifa University
 
 2. Resource Reference:
