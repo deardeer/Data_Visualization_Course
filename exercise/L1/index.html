@@ -1,0 +1,60 @@
+<head>
+	<script type="text/javascript" src="./d3.v3.min.js"></script>
+	<script type="text/javascript">
+
+		// 知识点二：Javascript基本语法
+		var text = 'hello world'
+
+		var viscourse = {
+			'name': 'vis',
+			'lecturer': 'min'
+		} //json
+
+		var giscourse = {
+			'name': 'gis',
+			'lecturer': 'gi'
+		}
+
+		var GIE = {
+			'courses': [viscourse, giscourse]
+		}
+
+		var courseNum = 2
+		for (var i = 0; i < courseNum; i++) {
+			var temp = GIE['courses'][i]
+			if(temp['name'] == 'vis')
+				console.log('course', temp['name'], temp['lecturer'])
+		};
+
+	</script>
+</head>
+
+<body> 
+	<!-- 知识点四：CSS设计html风格 -->
+	<div style="font-size:20px; color:red;font-family: fantasy;">Hello World, VIS Class</div>
+
+	<div>
+		<svg width = '500px' height = '500px' style="background:gray"></svg>
+	</div>
+
+	<!-- 知识点一：理解html, 及其tag -->
+	<!-- <button>Click Me!</button>
+	<textarea></textarea>
+	<span>CSS</span>
+	<img src="./heart.jpeg" style="width:400px"></img> -->
+</body>
+
+<script type="text/javascript">
+	
+	//知识点三：如何用d3.js画图
+	var svg = d3.select('svg')
+	  .attr('width', '700px')
+	  .attr('height', '700px')
+
+	svg.append('rect')
+	   .attr('x', '100px')
+	   .attr('y', '100px')
+	   .attr('width', '100px')
+	   .attr('height', '100px')
+	   .style('fill', 'green')
+</script>
