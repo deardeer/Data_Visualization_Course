@@ -13,9 +13,15 @@ After taking this course, I hope:
 
 ## Weekly Schedule Summary
 
-- Week 1: Introduction: The Value of Visualization
-	- *Brief*: data, what and why visualization, goals of visualization research
-	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation
+- &#x1F4D9; &#x1F4D9; Week 1: Introduction: The Value of Visualization &#x1F4D9; &#x1F4D9;
+	- *Brief*: data, what and why visualization, goals of visualization research 
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
+	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation 
+	
+	&#x1F49B; **Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
+	
+	&#x1F49B; **Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
 - Week 2: Visual Encoding: Marks & Channels	
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
 	- *Assignment*: Week 2 - Draw a circle, driven by data 
