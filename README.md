@@ -13,7 +13,7 @@ After taking this course, I hope:
 
 ## Weekly Schedule Summary
 
-- Week 1: Introduction: The Value of Visualization
+- &#x1F4D9; &#x1F4D9; Week 1: Introduction: The Value of Visualization &#x1F4D9; &#x1F4D9;
 	- *Brief*: data, what and why visualization, goals of visualization research 
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
