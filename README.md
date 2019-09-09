@@ -19,7 +19,7 @@ After taking this course, I hope:
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
 	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation 
 	
-	&#x1F49B; **Exercie Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
+	&#x1F49B; **Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
 	
 	&#x1F49B; **Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
 - Week 2: Visual Encoding: Marks & Channels	
