@@ -76,6 +76,9 @@ This course is greatly inspired by following researchers. Thanks!
 2. Resource Reference:
 - Visualization resources: https://courses.cs.washington.edu/courses/cse512/19sp/resources.html
 
+3. Encouraged Reading:
+- Mike Bostock's blog (D3's creator): https://bost.ocks.org/mike/
+
 
 
 
