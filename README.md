@@ -22,10 +22,10 @@ After taking this course, I hope:
 	&#x1F49B; **Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
 	
 	&#x1F49B; **Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
-- Week 2: Visual Encoding: Marks & Channels	
+- Week 2-1: Human Perception and Information Processing
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
 	- *Assignment*: Week 2 - Draw a circle, driven by data 
-- Week 3: Exploratory Data Analysis: Data & Task Abstractions; 
+- Week 2-2: Data & Visual Encoding 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	- *Assignment*: Week 3 - Render a map, draw spatial data
 - Week 4: Data Representation: Classic Visualizations
