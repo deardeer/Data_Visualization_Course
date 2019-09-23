@@ -24,9 +24,15 @@ After taking this course, I hope:
 	&#x1F49B; **Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
 - Week 2-1: Human Perception and Information Processing
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L2_perception.pdf
+	
 	- *Assignment*: Week 2 - Draw a circle, driven by data 
 - Week 2-2: Data & Visual Encoding 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L3_visualencoding.pdf
+	
 	- *Assignment*: Week 3 - Render a map, draw spatial data
 - Week 4: Data Representation: Classic Visualizations
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
