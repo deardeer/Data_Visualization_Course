@@ -1,0 +1,104 @@
+<head>
+	<script type="text/javascript" src="./d3.v3.min.js"></script>
+</head>
+<body>
+	<svg style="width:400px; height: 400px; background: #ff000094"></svg>
+	<button onclick="sort()">sort</button>
+	<button onclick="add()">add</button>
+	<button>ok</button>
+</body>
+<script type="text/javascript">
+
+	var dataset = [3, 4, 5, 7, 10, 2]
+
+	var svgWidth = 400, svgHeight = 400
+
+	d3.select('svg')
+	  .style('width', svgWidth)
+	  .style('height', svgHeight)
+
+	var padding = {top: 20, right: 20, bottom: 20, left: 20}
+	var rectStep = 35
+	var rectWidth = 30
+
+	var extent = d3.extent(dataset)
+	var minHeight = 50;
+
+	var svg = d3.select('svg')
+
+	svg.selectAll('rect')
+	   .data(dataset)
+	   .enter()
+	   .append('rect')
+	   .attr('width', function(d, i){
+	   		return rectWidth
+	   })
+	   .attr('height', function(d, i){
+	   		return getHeight(minHeight, (svgHeight - minHeight - padding.top - padding.bottom), (d - extent[0]) / (extent[1] - extent[0]))
+	   		// return (svgHeight - padding.top - padding.bottom) - d;
+	   })
+	   .attr('x', function(d, i){
+	   		return padding.left + (rectWidth + rectStep) * i
+	   })
+	   .attr('y', function(d, i){
+	   		return svgHeight - padding.bottom - getHeight(minHeight, (svgHeight - minHeight - padding.top - padding.bottom), (d - extent[0]) / (extent[1] - extent[0]));
+	   })
+	   .style('fill', 'green')
+	   .style('stroke', 'black')
+
+	svg.selectAll('text')
+	   .data(dataset)
+	   .enter()
+	   .append('text')
+	   .text(function(d, i){return d;})
+	   .style('text-anchor', 'middle')
+	   .attr('x', function(d, i){
+	   		return padding.left + (rectWidth + rectStep) * i
+	   })
+	   .attr('y', function(d, i){
+	   		return svgHeight - padding.bottom - getHeight(minHeight, (svgHeight - minHeight - padding.top - padding.bottom), (d - extent[0]) / (extent[1] - extent[0]));
+	   })
+	   .attr('dx', rectWidth/2)
+	   .attr('dy', '1em')
+	  
+
+   	function getHeight(minHeight, heightDiff, ratio){
+   		return minHeight + heightDiff * ratio
+   	}
+
+	function sort(){
+		console.log('sort bars');
+		dataset.sort(d3.descending)
+
+		d3.selectAll('rect')
+		  .data(dataset)
+		  .transition(100)
+			.attr('height', function(d, i){
+			return minHeight + (svgHeight - minHeight - padding.top - padding.bottom) * (d - extent[0]) / (extent[1] - extent[0])
+			// return (svgHeight - padding.top - padding.bottom) - d;
+			})
+			.attr('x', function(d, i){
+				return padding.left + (rectWidth + rectStep) * i
+			})
+			.attr('y', function(d, i){
+				return svgHeight - padding.bottom - (minHeight + (svgHeight - minHeight - padding.top - padding.bottom) * (d - extent[0]) / (extent[1] - extent[0]));
+			})
+
+		d3.selectAll('text')
+		  .data(dataset)
+		   .text(function(d, i){return d;})
+		   .transition(100)
+		   .attr('x', function(d, i){
+		   		return padding.left + (rectWidth + rectStep) * i
+		   })
+		   .attr('y', function(d, i){
+		   		return svgHeight - padding.bottom - getHeight(minHeight, (svgHeight - minHeight - padding.top - padding.bottom), (d - extent[0]) / (extent[1] - extent[0]));
+		   })
+	}
+
+	// function add(){
+	// 	dataset.append(math.random())
+
+	// }
+
+</script>

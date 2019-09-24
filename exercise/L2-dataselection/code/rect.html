@@ -1,0 +1,50 @@
+<head>
+	<script type="text/javascript" src="./d3.v3.min.js"></script>
+</head>
+
+<body>
+	<svg style="width: 400px; height: 400px; background: #55000033"></svg>
+</body>
+
+<script type="text/javascript">
+	var rectDataList = [
+		{'x': 00, 'y': 100, 'width': 50, 'height': 50},
+		{'x': 60, 'y': 100, 'width': 50, 'height': 50},
+		{'x': 120, 'y': 100, 'width': 50, 'height': 50},
+	]
+
+	var svg = d3.select('svg')
+
+	var update = svg.selectAll('rect')
+	   				.data(rectDataList)
+
+	update.enter()
+		  .append('rect')
+		  .style('width', function(d, i){
+		  	return d.width
+		  })
+		  .style('height', function(d, i){
+		  	return d.height
+		  })
+		  .style('x', function(d, i){
+		  	return d.x
+		  })
+		  .style('y', function(d, i){
+		  	return d.y
+		  })
+
+	//---- EXIT ----
+ 	rectDataList = [
+		{'x': 00, 'y': 100, 'width': 50, 'height': 50},
+		{'x': 60, 'y': 100, 'width': 50, 'height': 50},
+	]
+	//update.exit()
+
+	//---- ENTER ----
+	rectDataList = [
+		{'x': 00, 'y': 100, 'width': 50, 'height': 50},
+		{'x': 60, 'y': 100, 'width': 50, 'height': 50},
+		{'x': 120, 'y': 100, 'width': 50, 'height': 50},
+	]
+	//update.enter()
+</script>
