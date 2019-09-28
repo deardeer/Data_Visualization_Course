@@ -39,6 +39,8 @@ After taking this course, I hope:
 	- *Assignment*: Week 3 - Render a map, draw spatial data
 - Week 4: Data Representation: Classic Visualizations
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l4_chart.pdf 
+	
 	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming **[Good/Bad Visualization Review, 10%]**
 - Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
