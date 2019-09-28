@@ -27,7 +27,10 @@ After taking this course, I hope:
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L2_perception.pdf
 	
-	- *Assignment*: Week 2 - Draw a circle, driven by data 
+	- *Assignment*: Week 2 - Draw a rectangle, driven by data 
+	
+	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L2-dataselection
+	
 - &#x1F4D9; &#x1F4D9; Week 2-2: Data & Visual Encoding &#x1F4D9; &#x1F4D9; 
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	
