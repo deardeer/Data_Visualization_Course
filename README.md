@@ -37,18 +37,26 @@ After taking this course, I hope:
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L3_visualencoding.pdf
 	
 	- *Assignment*: Week 3 - Render a map, draw spatial data
-- Week 4: Data Representation: Classic Visualizations
+- &#x1F4D9; &#x1F4D9; Week 4: Data Representation: Classic Visualizations &#x1F4D9; &#x1F4D9; 
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l4_chart.pdf 
 	
 	- *Assignment*: Week 4 - Make It Interactive // Web Infrastructure, Web-based Visualization Programming **[Good/Bad Visualization Review, 10%]**
-- Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions
+- &#x1F4D9; &#x1F4D9; Week 5: Facet Into Multiple Views: Manipulate Single/Multiple Views, Interactions &#x1F4D9; &#x1F4D9;
 	- *Brief*: cooperation mechanism between multiple views, multiple-view systems
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l5_exploratory.pdf
+	
 	- *Assignment*: Week 5 - Final project preview, form a team 
-- Week 6: Data Analysis Methods
+	
+-  &#x1F4D9; &#x1F4D9; Week 6: Data Analysis Methods  &#x1F4D9; &#x1F4D9;
 	- *Brief*: data analysis method, including Reduction via Aggregation and Filtering
+	
 	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules **[Interactive Visualization Prototyping 20%]**
+	
+	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L3-webapp
+	
 - Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
 	- *Assignment*: Week 7 - Final project discussion
