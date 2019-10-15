@@ -1,0 +1,34 @@
+<html>
+	<body>
+		hello world
+		<button onclick="clickme()">click me</button>
+	</body>
+	<head>
+		<script type="text/javascript" src="./jquery.js"></script>
+		<script type="text/javascript" src="./lurlquery.js"></script>
+		<script type="text/javascript">
+			var x = 1;
+			console.log('hello world ', x);
+		</script>
+
+		<script type="text/javascript">
+		function clickme(){
+			console.log('click me@@')
+
+			var formData = new FormData();
+			var time = {'name': 'gie'}
+	        formData.append('time', JSON.stringify(time));
+	        var url = 'http://localhost:22025/check';
+
+	        //POST, GET
+	        lSendUrl('POST', url, formData, abc);
+		}
+		function abc(response){
+			console.log('successFindCliques')
+    		var result = response['result'];
+    		console.log('result', result)
+		}
+		</script>
+
+	</head>
+</html>
