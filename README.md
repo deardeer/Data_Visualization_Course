@@ -49,13 +49,14 @@ After taking this course, I hope:
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l5_exploratory.pdf
 	
 	- *Assignment*: Week 5 - Final project preview, form a team 
-	
+		
 -  &#x1F4D9; &#x1F4D9; Week 6: Data Analysis Methods  &#x1F4D9; &#x1F4D9;
 	- *Brief*: data analysis method, including Reduction via Aggregation and Filtering
 	
 	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules **[Interactive Visualization Prototyping 20%]**
 	
 	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L3-webapp
+	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L4-axis
 	
 - Week 7: Cartographic Visualization: Spatial Data & Map
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
