@@ -56,6 +56,7 @@ After taking this course, I hope:
 	- *Assignment*: Week 6 - Client-server framework set up, data analysis modules **[Interactive Visualization Prototyping 20%]**
 	
 	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L3-webapp
+	
 	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L4-axis
 	
 - Week 7: Cartographic Visualization: Spatial Data & Map
