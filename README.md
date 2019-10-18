@@ -67,6 +67,7 @@ After taking this course, I hope:
 	- *Assignment*: Week 7 - Final project discussion
 	
 	&#x1F49B;  **Exercise Note & Code** Echarts: https://www.echartsjs.com/en/index.html
+	
 	&#x1F49B;  **Exercise Note & Code** Bootstrap: https://getbootstrap.com
 	
 	
