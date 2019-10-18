@@ -59,9 +59,17 @@ After taking this course, I hope:
 	
 	&#x1F49B;  **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L4-axis
 	
-- Week 7: Cartographic Visualization: Spatial Data & Map
+- &#x1F4D9; &#x1F4D9; Week 7: Cartographic Visualization: Spatial Data & Map &#x1F4D9; &#x1F4D9; 
 	- *Brief*: 	map, scaling, symbols, third dimensional representation (e.g., temporal)
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l7_map.pdf
+	
 	- *Assignment*: Week 7 - Final project discussion
+	
+	&#x1F49B;  **Exercise Note & Code** Echarts: https://www.echartsjs.com/en/index.html
+	&#x1F49B;  **Exercise Note & Code** Bootstrap: https://getbootstrap.com
+	
+	
 - Week 8: Midterm: Project Interface Design Preview **[20%]**
 	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
 	- *Assignment*: Week 8 - Final project design presentation, and evaluation
