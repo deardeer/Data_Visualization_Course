@@ -79,6 +79,9 @@ After taking this course, I hope:
 	- *Assignment*: Week 9 - Project Implementation Q & A 
 - Week 10: Temporal Visualization
 	- *Brief*: temporal data, timeline visualization, animation
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l8-time.pdf
+	
 	- *Assignment*: Week 10 - Project Implementation Q & A (Temporal Visualization)
 - Week 11: Text Visualization
 	- *Brief*: textual data, text visualization
