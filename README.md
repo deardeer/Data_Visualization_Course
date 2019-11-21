@@ -85,9 +85,15 @@ After taking this course, I hope:
 	- *Assignment*: Week 10 - Project Implementation Q & A (Temporal Visualization)
 - Week 11: Text Visualization
 	- *Brief*: textual data, text visualization
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l9_text.pdf
+	
 	- *Assignment*: Week 11 - Project Implementation Q & A (Text Visualization)
 - Week 12: Network & Tree Visualization
 	- *Brief*: structural dataset, networks, tree
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l10_treegraph.pdf
+	
 	- *Assignment*: Week 12 - Project Implementation Q & A (Network/Tree Visualization)
 - Week 13: High Dimensional Data Visualization 
 	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
