@@ -71,23 +71,29 @@ After taking this course, I hope:
 	&#x1F49B;  **Exercise Note & Code** Bootstrap: https://getbootstrap.com
 	
 	
-- Week 8: Midterm: Project Interface Design Preview **[20%]**
+- &#x1F4D9; &#x1F4D9; Week 8: Midterm: Project Interface Design Preview **[20%]** &#x1F4D9; &#x1F4D9; 
 	- *Brief*: visualization resources (data, toolkits), possible topics, form groups, discuss and propose final project
 	- *Assignment*: Week 8 - Final project design presentation, and evaluation
-- Week 9: Rules of Thumb
+- &#x1F4D9; &#x1F4D9;  Week 9: Rules of Thumb &#x1F4D9; &#x1F4D9; 
 	- *Brief*: design effective visualization, lying in visualization
 	- *Assignment*: Week 9 - Project Implementation Q & A 
-- Week 10: Temporal Visualization
+- &#x1F4D9; &#x1F4D9;  Week 10: Temporal Visualization &#x1F4D9; &#x1F4D9; 
 	- *Brief*: temporal data, timeline visualization, animation
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l8-time.pdf
 	
 	- *Assignment*: Week 10 - Project Implementation Q & A (Temporal Visualization)
-- Week 11: Text Visualization
+- &#x1F4D9; &#x1F4D9;  Week 11: Text Visualization &#x1F4D9; &#x1F4D9; 
 	- *Brief*: textual data, text visualization
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l9_text.pdf
+	
 	- *Assignment*: Week 11 - Project Implementation Q & A (Text Visualization)
-- Week 12: Network & Tree Visualization
+- &#x1F4D9; &#x1F4D9;  Week 12: Network & Tree Visualization &#x1F4D9; &#x1F4D9; 
 	- *Brief*: structural dataset, networks, tree
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l10_treegraph.pdf
+	
 	- *Assignment*: Week 12 - Project Implementation Q & A (Network/Tree Visualization)
 - Week 13: High Dimensional Data Visualization 
 	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
