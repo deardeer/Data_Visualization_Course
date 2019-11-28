@@ -95,8 +95,11 @@ After taking this course, I hope:
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l10_treegraph.pdf
 	
 	- *Assignment*: Week 12 - Project Implementation Q & A (Network/Tree Visualization)
-- Week 13: High Dimensional Data Visualization 
+- &#x1F4D9; &#x1F4D9;  Week 13: High Dimensional Data Visualization &#x1F4D9; &#x1F4D9;  
 	- *Brief*: high dimensional data, parallel coordinates, scatterplot matrix
+	
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l11-highdimension.pdf
+	
 	- *Assignment*: Week 13 - Project Implementation  Q & A (High Dimensional Visualization)
 - Week 14: Animation
 	- *Brief*: motion, and its usage
