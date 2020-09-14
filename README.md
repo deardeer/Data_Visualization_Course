@@ -1,7 +1,8 @@
 # Data Visualization 
 
-**2020 Autumn @ SZU, 14:15 - 16:40 Every Monday, Huizi Building C-311, Cojoined with GISWeb Programming (10:15 - 12:25 Every Thursday) **
-2019 Autumn @ SZU, Every Friday, Cojoined with GISWeb Programming
+* 2020 Autumn @ SZU, 14:15 - 16:40 Every Monday, Huizi Building C-311, Cojoined with GISWeb Programming (10:15 - 12:25 Every Thursday)
+
+* 2019 Autumn @ SZU, Every Friday, Cojoined with GISWeb Programming
 
 <img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="200">
 
