@@ -1,4 +1,6 @@
 # Data Visualization 
+
+**2020 Autumn @ SZU, 14:15 - 16:40 Every Monday, Huizi Building C-311, Cojoined with GISWeb Programming (10:15 - 12:25 Every Thursday) **
 2019 Autumn @ SZU, Every Friday, Cojoined with GISWeb Programming
 
 <img src="https://github.com/deardeer/VISCourse_2019/blob/master/img/cover.png" height="200">
@@ -7,9 +9,9 @@
 
 After taking this course, I hope: 
 
-- Theoretically, Introduce the data (especially spatial data) visualization method. Demonstrate the power of visual analytics in data (especially spatial data) analysis. Select appropriate visualization methods for a given combination of data type and intended analysis task. Assess visual representations according to design and perceptual principles.
+- Theoretically, (1) I will introduce the data (especially spatial data) visualization method and (2) demonstrate the power of visual analytics in data (especially spatial data) analysis. After taking this course, you will be able to (3)  assess visual representations according to design and perceptual principles and (4) select appropriate visualization methods for a given combination of data type and intended analysis task.
 
-- Practically, Use visualization toolkits (e.g., Tableau). Design and implement static and interactive visualizations.
+- Practically, we will learn how to (1) use visualization toolkits (e.g., Tableau, Python) as well as (2) design and implement static and interactive visualizations.
 
 ## Weekly Schedule Summary
 
