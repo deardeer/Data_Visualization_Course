@@ -22,7 +22,7 @@ After taking this course, I hope:
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
 	- *Assignment*: Week 1 - Tableau Installation, Development environment installation 
 	
-	&#x1F49B; **Tableau Installation** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/tableau_install.pdf
+	&#x1F49B; **Tableau Installation** https://github.com/deardeer/Data_Visualization_Course/blob/master/exercise/tableau_install.pdf
 	
 -  Week 2-1: Human Perception and Information Processing
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
