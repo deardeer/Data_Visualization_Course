@@ -20,7 +20,8 @@ After taking this course, I hope:
 	- *Brief*: data, what and why visualization, goals of visualization research 
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
-	- *Assignment*: Week 1 - Good vs. Bad visualization, Development environment installation 
+	
+        - *Assignment*: Week 1 - Tableau Installation, Development environment installation 
 	
 	&#x1F49B; **Tableau Installation** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1-tableau
 	
