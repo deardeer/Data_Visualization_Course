@@ -41,8 +41,8 @@ After taking this course, I hope:
 	- *Learning Materials*: HTML, SVG Basics
 
 	&#x1F49B; **SVG**: https://www.runoob.com/svg/svg-inhtml.html
+	
 	&#x1F49B; **Javascript** https://www.runoob.com/js/js-tutorial.html
-
 	
 	- *Mini-Assignment (20%)*: Dear-Data project
 	
