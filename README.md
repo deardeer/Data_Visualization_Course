@@ -32,12 +32,17 @@ After taking this course, I hope:
 	
 	- *Exercise*: Week 2 - HTML, SVG Basics, Javascript Introduction: Draw a rectangle
 
-	**Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
+	&#x1F49B; **Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
 
-	**Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
+	&#x1F49B; **Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
 
-	**Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L2-dataselection
-	
+	&#x1F49B; **Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L2-dataselection
+
+	- *Learning Materials*: HTML, SVG Basics
+
+	&#x1F49B; **SVG**: https://www.runoob.com/svg/svg-inhtml.html
+	&#x1F49B; **Javascript** https://www.runoob.com/js/js-tutorial.html
+
 	
 	- *Mini-Assignment (20%)*: Dear-Data project
 	
