@@ -20,27 +20,38 @@ After taking this course, I hope:
 	- *Brief*: data, what and why visualization, goals of visualization research 
 	
 	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L1_introduction_vis.pdf
-	- *Assignment*: Week 1 - Tableau Installation, Development environment installation 
+	
+	- *Exercise*: Week 1 - Tableau Installation, Development environment installation
 	
 	&#x1F49B; **Tableau Installation** https://github.com/deardeer/Data_Visualization_Course/blob/master/exercise/tableau_install.pdf
 	
--  Week 2-1: Human Perception and Information Processing
+-   &#x1F4D9; &#x1F4D9; Week 2-1: Human Perception and Information Processing  &#x1F4D9; &#x1F4D9; 
 	- *Brief*:  visual channels (color, shape, texture, position, orientation, etc.), design variables
 	
-	**Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L2_perception.pdf
+	&#x1F49C;  **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L2_perception.pdf
 	
-	- *Assignment*: Week 2 - Draw a rectangle, driven by data 
+	- *Exercise*: Week 2 - HTML, SVG Basics, Javascript Introduction: Draw a rectangle
+
 	**Exercise Note** https://github.com/deardeer/VISCourse_2019/blob/master/exercise/L1/L1_basic.md
+
 	**Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L1 
+
 	**Exercise Note & Code** https://github.com/deardeer/VISCourse_2019/tree/master/exercise/L2-dataselection
 	
-- Week 2-2: Data & Visual Encoding 
+	
+	- *Mini-Assignment (20%)*: Dear-Data project
+	
+	
+-  &#x1F4D9; &#x1F4D9; Week 2-2: Data & Visual Encoding  &#x1F4D9; &#x1F4D9; 
+
 	- *Brief*: data types (high dimensional, network, temporal, spatial, textual | numerical, ordinal, categorical), analysis tasks (e.g., filter, query, select, compare, etc.), visual analytics systems (tableau, Jigsaw, etc.)
 	
-	**Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L3_visualencoding.pdf
+	&#x1F49C; **Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/L3_visualencoding.pdf
 	
-	- *Assignment*: Week 3 - Render a map, draw spatial data
+	- *Exercise*: Week 3 - Driven by data: Draw rectangles
+	
 - Week 4: Data Representation: Classic Visualizations 
+
 	- *Brief*: scatterplot (high dimensional data), timelines (temporal), treemap (hierarchy), graph (network), map (spatial)
 	
 	**Slides** https://github.com/deardeer/VISCourse_2019/blob/master/slides/l4_chart.pdf 
